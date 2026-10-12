@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Megha 👋
 
-<!--
-**Meghamishra12/Meghamishra12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+💻 Full-stack developer | Passionate about Web Development, AI, and Software Development
+🚀 Exploring deep learning & computer vision, and building projects that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** HTML5, CSS3, JavaScript, Responsive Design
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Databases:** MongoDB
+
+**Tools:** Git, GitHub, VS Code
+
+**Currently Exploring:** Deep Learning, Computer Vision
+
+## 🚀 Projects
+
+- 🌐 **Personal Portfolio** – My portfolio website: https://meghamishra12.github.io/Personal-Portfolio/
+- 🚗 **Project Two** – Ek line mein batao ye project kya karta hai.
+- 🏫 **Project Three** – Ek line mein description.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Meghamishra12
+- LinkedIn: https://www.linkedin.com/in/megha-mishra-a10a22244
+- Portfolio: https://meghamishra12.github.io/Personal-Portfolio/
+
+⭐ Thanks for visiting my profile!
