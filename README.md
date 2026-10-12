@@ -20,6 +20,8 @@
 
 - 🌊 **[Underwater Image Enhancement](https://github.com/Meghamishra12/Underwater_Enhancement)** – PyTorch encoder-decoder (U-Net style) model trained on the EUVP dataset to enhance blurry, low-contrast, color-distorted underwater images.
 - 🌐 **[Personal Portfolio](https://meghamishra12.github.io/Personal-Portfolio/)** – Responsive portfolio website showcasing my projects and skills.
+- 🔍 TruthLens is an AI-powered fake news detection web application that uses Machine Learning and NLP to classify news articles as real or fake.
+
 
 ## 📫 Connect With Me
 
